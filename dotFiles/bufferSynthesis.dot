@@ -1,0 +1,4 @@
+_Buffer_1 [type=Buffer, in="in1:32", out="out1:32", bbID = 3, slots=2, transparent=false, label="_Buffer_1 [1]",  shape=box, style=filled, fillcolor=darkolivegreen3, height = 0.4];
+_Buffer_2 [type=Buffer, in="in1:32", out="out1:32", bbID = 3, slots=1, transparent=true, label="_Buffer_2 [1T]",  shape=box, style=filled, fillcolor=darkolivegreen3, height = 0.4];
+_Buffer_3 [type=Buffer, in="in1:32", out="out1:32", bbID = 3, slots=3, transparent=false, label="_Buffer_3 [1]",  shape=box, style=filled, fillcolor=darkolivegreen3, height = 0.4];
+_Buffer_4 [type=Buffer, in="in1:32", out="out1:32", bbID = 3, slots=2, transparent=true, label="_Buffer_4 [1T]",  shape=box, style=filled, fillcolor=darkolivegreen3, height = 0.4];
