@@ -1,0 +1,11 @@
+bin/*
+designs/*
+library/placedRoutedDCPs/
+library/vhdlFiles/
+vivadoRun/*
+placement/*
+temp/*
+
+
+
+

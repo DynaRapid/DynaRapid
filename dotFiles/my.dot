@@ -1,0 +1,4 @@
+_Buffer_4 [type=Buffer, in="in1:1", out="out1:1", bbID = 1, slots=1, transparent=false, label="_Buffer_4 [1]",  shape=box, style=filled, fillcolor=darkolivegreen3, height = 0.4];
+phi_1 [type=Mux, in="in1?:1 in2:32 in3:32", out="out1:32", delay=0.366, bbID = 2, retimingDiff=2.5,  shape=oval];
+
+_Buffer_4 -> phi_1 [from=out1, to=in2, arrowhead=normal, color=magenta];
